@@ -19,7 +19,7 @@ Reduce surplus/shortage in medication production and avoid unnecessary waste due
 3. Open-source medical library for the public
 
 ## Tech used (as many as required)
-1. Prediction model - Artificial Neural Networks (ANN)
+1. Prediction model - Artificial Neural Networks (ANN) using LSTM 
 2. UI development and web Development 
 3. Regression model application to Neural Networks
 4. AWS SageMaker and GPU Accelerators 
