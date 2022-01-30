@@ -15,8 +15,11 @@ Reduce surplus/shortage in medication production and avoid unnecessary waste due
 
 ## 3 Most Impactful Features of the Project (with Screenshot and Short Description (150 words))
 1. Historical and Future Predictive Time-Series Stamp
+Using the given data on past sales and demand of all medicines produced by a certain company, our project trains the AI model to predict future demand of each medicine in a time-series manner. With such prediction available, effective medicine production in terms of manufactoring at full capacity - avoiding surplus and shortage - is possible. 
 2. Data resource hub for all the medicines maybe used for research another prospectives
+With in-depth analysis on medicine with factors including but not limited to amount of sales in specific time period, further development and/or preporation in relative and necessary area of medicine can be attained.
 3. Open-source medical library for the public
+Medical library allows public users to access each medicine's prescription details. 
 
 ## Tech used (as many as required)
 1. Prediction model - Artificial Neural Networks (ANN) using LSTM 
