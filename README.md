@@ -20,9 +20,9 @@ Reduce surplus/shortage in medication production and avoid unnecessary waste due
   With in-depth analysis on medicine with factors including but not limited to amount of sales in specific time period, further development and/or preporation in relative and necessary area of medicine can be attained.
 ### 3. Open-source medical library for the public<br />
   Medical library allows public users to access each medicine's prescription details. <br />
-<img src="screenshot_1.jpeg" width="200" alt="screenshot_1"/>
+<center><img src="screenshot_1.jpeg" width="200" alt="screenshot_1"/>
 <img src="screenshot_3.jpeg" width="200" alt="screenshot_2"/>
-<img src="screenshot_3.jpeg" width="200" alt="screenshot_3"/>
+<img src="screenshot_3.jpeg" width="200" alt="screenshot_3"/></center>
 
 ## Tech used (as many as required)
 1. Prediction model - Artificial Neural Networks (ANN) using LSTM 
