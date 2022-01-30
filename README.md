@@ -19,7 +19,7 @@ Reduce surplus/shortage in medication production and avoid unnecessary waste due
 ### 2. Data resource hub for all the medicines maybe used for research another prospectives<br />
   With in-depth analysis on medicine with factors including but not limited to amount of sales in specific time period, further development and/or preporation in relative and necessary area of medicine can be attained.
 ### 3. Open-source medical library for the public<br />
-  Medical library allows public users to access each medicine's prescription details. 
+  Medical library allows public users to access each medicine's prescription details. <br />
 <img src="screenshot_1.jpeg" width="200" alt="screenshot_1"/>
 <img src="screenshot_3.jpeg" width="200" alt="screenshot_2"/>
 <img src="screenshot_3.jpeg" width="200" alt="screenshot_3"/>
